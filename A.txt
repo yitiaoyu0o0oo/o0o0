@@ -1,0 +1,23 @@
+[custom]
+;是否在节点名称前加入下面自定义的 Emoji
+add_emoji=false
+;是否移除原有的emoji
+remove_old_emoji=false
+rename_node=(?i)Hong Kong@香港
+rename_node=(?i)Japan@日本
+rename_node=(?i)Singapore@新加坡
+rename_node=(?i)Taiwan@台湾
+rename_node=(?i)United States@美国
+rename_node=(?i)United Kingdom@英国
+rename_node=(?i)Turkey@土耳其
+rename_node=(?i)Argentina@阿根廷
+rename_node=(?i)India@印度
+rename_node=(?i)South Korea@韩国
+rename_node=(?i)Poland@波兰
+rename_node=(?i)Israel@以色列
+rename_node=(?i)North Korea@朝鲜
+rename_node=(?i)Antarctica@南极
+rename_node=(?i)Iceland@冰岛
+rename_node=(?i)Nigeria@尼日利亚
+rename_node=(^.+? )@$1𝗔\|
+rename_node=\[Edge\]@
